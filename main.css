@@ -56,7 +56,7 @@ ul{
 	}
 	.nav-menu-right{
 		position: absolute;
-		top: 35px;
+		top: 12px;
 		right: 120px;
 	}
 	.nav-main ul.nav-menu.show{
@@ -70,7 +70,7 @@ ul{
 		display: block;
 		cursor: pointer;
 		font-size: 25px;
-		top: 42px;
+		top: 13px;
 		right: 40px;
 		z-index: 10;
 	}
